@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Pomodora_Timer",
-    "slug": "Pomodora_Timer",
+    "slug": "PomodoraTimer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
